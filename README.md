@@ -54,8 +54,8 @@ root/
 │   │   └── ...
 │   ├── pages/
 │   │   └── ...
-│   ├── App.js
-│   └── index.js
+│   ├── App.jsx
+│   └── index.css
 ├── amplify/
 │   ├── backend/
 │   │   ├── api/
@@ -64,10 +64,11 @@ root/
 │   └── team-provider-info.json
 ├── README.md
 ├── package.json
-└── amplify.yml
 ```
+
 ### Architectural Diagram
-![Architectural Diagram Screenshot](./screenshots/homepage.png)
+![Architectural Diagram Screenshot](https://github.com/almahmudsarker/wishTrackerCloudApp/blob/main/src/assets/p_5_1.png)
+
 ---
 
 ## Installation
@@ -94,14 +95,14 @@ root/
 
 ## Screenshots
 ### Homepage
-![Homepage Screenshot](./screenshots/homepage.png)
+![Homepage Screenshot](https://github.com/almahmudsarker/wishTrackerCloudApp/blob/main/src/assets/p_5_4.png)
 
 ### User Authentication
-![Login Screenshot](./screenshots/login.png)
-![Verification Screenshot](./screenshots/login.png)
+![Login Screenshot](https://github.com/almahmudsarker/wishTrackerCloudApp/blob/main/src/assets/p_5_2.png)
+![Verification Screenshot](https://github.com/almahmudsarker/wishTrackerCloudApp/blob/main/src/assets/p_5_3.png)
 
 ### Bucket List Management
-![Bucket List Screenshot](./screenshots/bucket-list.png)
+![Bucket List Screenshot](https://github.com/almahmudsarker/wishTrackerCloudApp/blob/main/src/assets/p_5_5.png)
 
 ---
 
