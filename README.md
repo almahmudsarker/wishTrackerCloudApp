@@ -66,7 +66,8 @@ root/
 ├── package.json
 └── amplify.yml
 ```
-
+### Architectural Diagram
+![Architectural Diagram Screenshot](./screenshots/homepage.png)
 ---
 
 ## Installation
@@ -97,6 +98,7 @@ root/
 
 ### User Authentication
 ![Login Screenshot](./screenshots/login.png)
+![Verification Screenshot](./screenshots/login.png)
 
 ### Bucket List Management
 ![Bucket List Screenshot](./screenshots/bucket-list.png)
